@@ -1,6 +1,6 @@
 # Description
 
-This is a simple ATM application. You are able to make a deposit, view your balance, withdraw money, and view all transactions. There are initially ten accounts created with a balance of $5000 and a set password. 
+This is a ATM application. You are able to make a deposit, view your balance, withdraw money, and view all transactions. There are initially ten accounts created with a balance of $5000 and a set password. 
 
 ## Features:
 Make a deposit: You are able to make a deposit to your balance by choosing the deposit option and entering a positive value.
